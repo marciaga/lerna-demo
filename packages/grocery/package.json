@@ -1,0 +1,11 @@
+{
+  "name": "grocery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apple": "^1.0.0",
+    "banana": "^1.0.0",
+    "sillyname": "0.0.3"
+  }
+}
